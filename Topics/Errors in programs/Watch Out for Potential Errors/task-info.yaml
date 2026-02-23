@@ -1,0 +1,9 @@
+type: unsupported
+custom_name: Watch Out for Potential Errors!
+files:
+  - name: src/Task.java
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/29772#comment
+status: Solved
+record: -1

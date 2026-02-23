@@ -1,0 +1,17 @@
+content:
+  - String
+  - ' Hello  string'
+  - Extracting a character
+  - Operations with strings
+  - Operations with substrings
+  - Java as a string
+  - Comparing strings
+  - Calling basic methods
+  - All robots speak Java
+  - Appending strings and ints
+  - Extracting a substring
+  - Check prefix ignoring the case
+  - Check burgs
+  - Replacing 'a' with 'b'
+  - Finding string expressions
+  - Comparing strings ignoring whitespaces

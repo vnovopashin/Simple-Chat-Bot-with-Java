@@ -1,0 +1,9 @@
+content:
+  - NullPointerException
+  - Code that throws an exception
+  - Avoid NPE with strings
+  - Lines that may throw NPE
+  - Return empty string when argument is null
+  - When NPE cannot occur
+  - Avoid NPE
+  - Unknown input

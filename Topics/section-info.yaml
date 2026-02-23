@@ -1,0 +1,35 @@
+content:
+  - String
+  - Iterating over arrays
+  - Processing strings
+  - Abstract class
+  - Array exceptions
+  - Arrays as parameters
+  - Break and continue. Branching
+  - Combining constants with enum
+  - Debugging techniques
+  - Declaring methods
+  - Floating-point types and operations
+  - Errors in programs
+  - Exception handling
+  - Fields and methods in enum
+  - First glance at exceptions
+  - Functional decomposition
+  - Getters and setters
+  - Grouping classes with packages
+  - Hierarchy of exceptions
+  - Initializing new instances. Constructor
+  - Instance methods
+  - Keyword  super (1)
+  - Method overriding
+  - Multidimensional array
+  - Multiple conditions  switch (1)
+  - Multiple constructors
+  - NullPointerException
+  - Objects and their properties
+  - One-line condition with ternary operator
+  - Polymorphism
+  - Primitive and reference types
+  - Static members
+  - StringBuilder
+  - Type casting
